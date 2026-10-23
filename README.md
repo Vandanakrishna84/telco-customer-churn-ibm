@@ -27,10 +27,21 @@ The model achieved an 80.4% recall, meaning it successfully identifies 8 out of 
 ## Technologies Used
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
-## How to Run
-1. Clone the repo: git clone https://github.com/YOUR_USERNAME/telco-customer-churn-ibm.git
 2. Install requirements: pip install -r requirements.txt
 3. Open the Jupyter Notebook: jupyter notebook churn_analysis.ipynb
 4. ## Explainable AI (XAI) - SHAP
 ![SHAP Summary Plot](shap_summary.png)
 The SHAP summary plot reveals that Contract_Two year strongly reduces churn risk, while InternetService_Fiber optic increases it
+
+## Decision Tree Visualization
+
+![Decision Tree](decision_tree.png)
+
+
+
+
+
+
+
+
+
