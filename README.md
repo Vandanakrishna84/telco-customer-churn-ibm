@@ -38,6 +38,14 @@ The SHAP summary plot reveals that Contract_Two year strongly reduces churn risk
 ![Decision Tree](decision_tree.png)
 
 
+## How to Run
+1. Clone the repo: git clone https://github.com/Vandanakrishna84/telco-customer-churn-ibm.git
+2. Install requirements: pip install -r requirements.txt
+3. Open the Jupyter Notebook: jupyter notebook telco_customer_churn_prediction.ipynb
+
+
+
+
 
 
 
