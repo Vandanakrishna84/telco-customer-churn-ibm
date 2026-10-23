@@ -33,4 +33,4 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 3. Open the Jupyter Notebook: jupyter notebook churn_analysis.ipynb
 4. ## Explainable AI (XAI) - SHAP
 ![SHAP Summary Plot](shap_summary.png)
-The SHAP summary plot reveals that Contract_Two year strongly reduces churn risk, while InternetService_Fiber optic increases it.
+The SHAP summary plot reveals that Contract_Two year strongly reduces churn risk, while InternetService_Fiber optic increases it
