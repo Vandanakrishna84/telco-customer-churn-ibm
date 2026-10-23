@@ -35,7 +35,7 @@ The SHAP summary plot reveals that Contract_Two year strongly reduces churn risk
 
 ## Decision Tree Visualization
 
-![Decision Tree](decision_tree.png)
+![Decision Tree](decision_tree.png
 
 
 
